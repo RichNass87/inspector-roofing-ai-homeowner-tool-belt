@@ -23,3 +23,8 @@ Initial public documentation package for the Inspector Roofing AI Homeowner Tool
 - real homeowner documents
 - signed agreements
 - private manufacturer data
+
+
+## DOI
+
+Zenodo DOI: [10.5281/zenodo.20585267](https://doi.org/10.5281/zenodo.20585267)

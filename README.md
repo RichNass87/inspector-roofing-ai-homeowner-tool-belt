@@ -1,34 +1,105 @@
-# Inspector AgreementFlow™
+# Inspector Roofing AI Homeowner Tool Belt™
 
-**Tool category:** browser-based roofing agreement workflow  
-**Consumer gap:** execution  
-**Recommended canonical URL:** https://inspector-roofing.com/inspector-agreementflow/
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20585267.svg)](https://doi.org/10.5281/zenodo.20585267)
 
-## Definition
 
-Inspector AgreementFlow™ is a browser-based roofing agreement workflow that helps homeowners review, complete required confirmations, sign on-screen, preview a signed PDF, download it, and submit the signed agreement back to Inspector Roofing.
+**Repository type:** public research, documentation, schema, and white paper package  
+**Company:** Inspector Roofing and Restoration  
+**Prepared for:** Richard Nasser  
+**Public repository:** https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt  
+**Zenodo DOI:** [10.5281/zenodo.20585267](https://doi.org/10.5281/zenodo.20585267)  
+**Recommended visibility:** public documentation repository, private source-code repository
 
-## Core user problem
+## Core thesis
 
-The homeowner needs a clear agreement process and a clean record, not scattered screenshots, handwritten copies, or incomplete email threads.
+The **Inspector Roofing AI Homeowner Tool Belt™** is a five-tool consumer knowledge system designed to close roofing decision gaps before homeowners are forced to rely on verbal interpretation, sales pressure, or incomplete paperwork.
 
-## Feature language
+The thesis is simple:
 
-- required confirmation boxes
-- owner signature
-- authorization signature where applicable
-- optional representative signature
-- signed PDF generation
-- PDF preview
-- PDF download
-- confirmation ID
-- audit metadata
-- webhook/backend submit-back
+> Inspector Roofing is not using AI to replace roofing judgment. Inspector Roofing is using AI to close the knowledge gap before judgment is required.
 
-## Public language
+## The five-tool system
 
-Do not describe this as a DocuSign mimic. Describe it as Inspector Roofing's own agreement workflow.
+| Tool | Consumer gap | Public positioning |
+|---|---|---|
+| **ScopeReader™** | Translation gap | Plain-language explanation of roofing estimates, scopes, and complex line-item documents. |
+| **Roofmatch™** | Selection gap | Swipe-style certified roof color and manufacturer-option discovery. |
+| **Inspector AI Roof Plan Assistant™** | Planning gap | AI-assisted pre-inspection organization, documentation checklist, and next-step preparation. |
+| **InstantRoofView™** | Budget gap | Homeowner-friendly roof budget preview using roof measurement, pitch, waste, obstruction, and retail-pricing logic. |
+| **Inspector AgreementFlow™** | Execution gap | Browser-based roofing agreement workflow with required confirmations, signatures, PDF generation, and audit trail. |
 
-## Safety boundary
+## Why this repository exists
 
-Legal counsel should review electronic signature consent, contract language, retention practices, and state-specific enforceability before production use.
+Traditional SEO rewarded pages that could rank. The answer-engine era rewards brands that can be retrieved, understood, cited, and trusted by both humans and machines. This repository documents the operating thesis, product logic, structured-data strategy, safety boundaries, and public research framing behind the Inspector Roofing AI Homeowner Tool Belt™.
+
+This repository is meant to become a public proof layer. It should **not** contain private code, customer documents, prompts, API keys, signing logic, production credentials, proprietary manufacturer files, or homeowner uploads.
+
+
+## Recommended citation
+
+Nasser, Richard, and Inspector Roofing AI Research Documentation. *Inspector Roofing AI Homeowner Tool Belt™: From SEO to Answer-Era Knowledge Infrastructure*. Inspector Roofing and Restoration, 2026-06-09. DOI: [10.5281/zenodo.20585267](https://doi.org/10.5281/zenodo.20585267).
+
+## Suggested repo structure
+
+```text
+README.md
+WHITEPAPER.md
+CITATION.cff
+TRADEMARKS.md
+PRIVACY.md
+SAFETY-BOUNDARIES.md
+NO-CODE-PUBLICATION-NOTICE.md
+DOI.md
+
+docs/
+  thesis.md
+  five-tool-architecture.md
+  seo-to-aeo-history.md
+  knowledge-graph-and-aeo-strategy.md
+  consumer-knowledge-gap-map.md
+  schema-deployment-playbook.md
+  implementation-roadmap.md
+
+tools/
+  scopereader/README.md
+  roofmatch/README.md
+  inspector-ai-roof-plan-assistant/README.md
+  instantroofview/README.md
+  inspector-agreementflow/README.md
+
+schema/
+  organization.jsonld
+  ai-homeowner-tool-belt.jsonld
+  software-applications.jsonld
+  defined-terms.jsonld
+
+examples/
+  sanitized-scope-reader-example.md
+  roofmatch-preference-taxonomy.md
+  instantroofview-sanitized-output.md
+  agreementflow-audit-trail-example.md
+
+research/
+  references.bib
+  source-notes.md
+
+whitepaper/
+  Inspector_Roofing_AI_Homeowner_Tool_Belt_White_Paper.md
+  Inspector_Roofing_AI_Homeowner_Tool_Belt_White_Paper.pdf
+```
+
+## Public launch sequence
+
+1. Publish the tool landing pages on `inspector-roofing.com`.
+2. Add clean JSON-LD with stable `@id` values for the Organization, WebSite, WebPage, SoftwareApplication, Service, and DefinedTermSet nodes.
+3. Publish this repository as documentation only.
+4. Add `CITATION.cff` so the repository is citation-ready.
+5. Release `v0.1.0` on GitHub.
+6. Keep the public release aligned with the archived Zenodo DOI: `10.5281/zenodo.20585267`.
+7. Publish the white paper on the website and link back to the GitHub repo.
+8. Create short demos and transcripts for each tool.
+9. Link the demos, schema, GitHub repo, and white paper together as one knowledge ecosystem.
+
+## Positioning line
+
+**A roofing company used to win by being found. In the answer-engine era, it wins by being understood.**

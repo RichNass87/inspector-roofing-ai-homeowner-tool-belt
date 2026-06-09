@@ -29,8 +29,8 @@
 
 - Connect GitHub repo to Zenodo.
 - Create GitHub release.
-- Mint DOI.
-- Update white paper with DOI.
+- DOI minted: `10.5281/zenodo.20585267`.
+- White paper metadata updated with the Zenodo DOI.
 - Publish LinkedIn article and website page.
 
 ## Phase 5: AEO expansion

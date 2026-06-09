@@ -7,7 +7,14 @@
 **Prepared by:** Richard Nasser and Inspector Roofing AI research documentation  
 **Date:** 2026-06-09  
 **Primary URL:** https://inspector-roofing.com/  
-**Proposed public repository:** `inspector-roofing-ai-homeowner-tool-belt`
+**Public repository:** https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt  
+**Zenodo DOI:** [10.5281/zenodo.20585267](https://doi.org/10.5281/zenodo.20585267)
+
+---
+
+## Recommended citation
+
+Nasser, Richard, and Inspector Roofing AI Research Documentation. *Inspector Roofing AI Homeowner Tool Belt™: From SEO to Answer-Era Knowledge Infrastructure*. Inspector Roofing and Restoration, 2026-06-09. DOI: [10.5281/zenodo.20585267](https://doi.org/10.5281/zenodo.20585267).
 
 ---
 
@@ -18,6 +25,8 @@ Homeowners making roofing decisions face a recurring information disadvantage. R
 This paper introduces the **Inspector Roofing AI Homeowner Tool Belt™**, a five-tool AI-assisted consumer decision system designed to close those gaps through translation, planning, selection, budgeting, and agreement execution. The system includes **ScopeReader™** for plain-language estimate and scope explanation, **Roofmatch™** for swipe-style certified roof color discovery, **Inspector AI Roof Plan Assistant™** for pre-inspection planning, **InstantRoofView™** for AI-assisted roof budget previews, and **Inspector AgreementFlow™** for browser-based roofing agreement execution.
 
 The paper argues that the next competitive frontier for local service companies is not simply search engine optimization. It is answer-era knowledge infrastructure: a connected ecosystem of crawlable pages, structured data, public documentation, citations, tool definitions, videos, transcripts, examples, and stable entity relationships that help both humans and AI systems understand what a company knows, builds, and stands for.
+
+This public white paper and documentation package is archived with Zenodo under DOI: [10.5281/zenodo.20585267](https://doi.org/10.5281/zenodo.20585267).
 
 ---
 
@@ -126,7 +135,7 @@ The new model looks like this:
 - white paper
 - GitHub documentation repo
 - citation file
-- DOI-ready release
+- DOI-archived release
 - structured data with stable `@id` values
 - cross-linked knowledge graph
 
@@ -310,7 +319,7 @@ Avoid duplicate FAQ markup. If an SEO plugin already outputs FAQ schema, do not 
 
 GitHub is useful because a repository stores files and revision history. Public/private visibility must be handled carefully.[^github-repos] The public repository should be documentation-only. The actual app code, prompts, API calls, and production signing logic should remain private.
 
-A `CITATION.cff` file should be included because GitHub supports citation files that help users correctly cite software or research materials.[^github-citation] A public GitHub release can later be archived with Zenodo to issue a DOI.[^github-zenodo]
+A `CITATION.cff` file should be included because GitHub supports citation files that help users correctly cite software or research materials.[^github-citation] This public documentation package is archived on Zenodo under DOI [10.5281/zenodo.20585267](https://doi.org/10.5281/zenodo.20585267).[^github-zenodo]
 
 ---
 

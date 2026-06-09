@@ -4,6 +4,8 @@
   "created": "2026-06-09",
   "files": [
     "CITATION.cff",
+    "DOI.md",
+    "GITHUB_UPLOAD_INSTRUCTIONS.md",
     "LICENSE-NOTICE.md",
     "NO-CODE-PUBLICATION-NOTICE.md",
     "PRIVACY.md",
@@ -26,7 +28,10 @@
     "examples/roofmatch-preference-taxonomy.md",
     "examples/sanitized-scope-reader-example.md",
     "manifest.json",
+    "release/CHECKSUMS_SHA256.txt",
     "release/GITHUB_RELEASE_NOTES_v0.1.0.md",
+    "release/ZENODO_DOI_v0.1.0.md",
+    "release/zenodo-record-metadata.json",
     "research/references.bib",
     "research/source-notes.md",
     "schema/ai-homeowner-tool-belt.jsonld",
@@ -39,6 +44,30 @@
     "tools/roofmatch/README.md",
     "tools/scopereader/README.md",
     "whitepaper/Inspector_Roofing_AI_Homeowner_Tool_Belt_White_Paper.md",
-    "whitepaper/Inspector_Roofing_AI_Homeowner_Tool_Belt_White_Paper.pdf"
+    "whitepaper/Inspector_Roofing_AI_Homeowner_Tool_Belt_White_Paper.pdf",
+    "whitepaper/pdf-before-body.tex",
+    "whitepaper/pdf-header.tex"
+  ],
+  "name": "inspector-roofing-ai-homeowner-tool-belt",
+  "title": "Inspector Roofing AI Homeowner Tool Belt™",
+  "doi": "10.5281/zenodo.20585267",
+  "doi_url": "https://doi.org/10.5281/zenodo.20585267",
+  "repository": "https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt",
+  "date": "2026-06-09",
+  "package_type": "public research, documentation, schema, and white paper package",
+  "tools": [
+    "ScopeReader™",
+    "Roofmatch™",
+    "Inspector AI Roof Plan Assistant™",
+    "InstantRoofView™",
+    "Inspector AgreementFlow™"
+  ],
+  "do_not_publish": [
+    "customer documents",
+    "API keys",
+    "webhook URLs",
+    "private prompts",
+    "production code",
+    "signed agreements"
   ]
 }

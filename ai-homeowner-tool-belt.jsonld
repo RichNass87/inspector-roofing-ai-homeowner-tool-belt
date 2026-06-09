@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "CreativeWork",
   "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#toolbelt",
-  "name": "Inspector Roofing AI Homeowner Tool Belt\u2122",
+  "name": "Inspector Roofing AI Homeowner Tool Belt™",
   "url": "https://inspector-roofing.com/ai-homeowner-tool-belt/",
   "creator": {
     "@id": "https://inspector-roofing.com/#organization"
@@ -27,5 +27,15 @@
     {
       "@id": "https://inspector-roofing.com/inspector-agreementflow/#software"
     }
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "10.5281/zenodo.20585267",
+    "url": "https://doi.org/10.5281/zenodo.20585267"
+  },
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.20585267",
+    "https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt"
   ]
 }

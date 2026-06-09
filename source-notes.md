@@ -8,7 +8,7 @@
 - Google structured data documentation: structured data provides explicit page meaning and supports rich results.
 - GitHub repository documentation: repositories store files and revision history, public/private visibility.
 - GitHub CITATION file documentation: `CITATION.cff` supports machine-readable citation instructions.
-- GitHub/Zenodo documentation: public repositories can be archived to Zenodo for DOI issuance.
+- GitHub/Zenodo documentation: the public documentation package is archived under DOI 10.5281/zenodo.20585267.
 
 ## Inspector Roofing source notes
 

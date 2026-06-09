@@ -1,0 +1,30 @@
+{
+  "title": "Inspector Roofing AI Homeowner Tool Belt™",
+  "upload_type": "software",
+  "description": "Public research, documentation, schema, and white paper package for the Inspector Roofing AI Homeowner Tool Belt™, a five-tool AI-assisted roofing decision support framework for homeowners.",
+  "creators": [
+    {
+      "name": "Nasser, Richard",
+      "affiliation": "Inspector Roofing and Restoration",
+      "orcid": "0009-0000-2980-7543"
+    }
+  ],
+  "version": "0.1.0",
+  "publication_date": "2026-06-09",
+  "doi": "10.5281/zenodo.20585267",
+  "doi_url": "https://doi.org/10.5281/zenodo.20585267",
+  "repository": "https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt",
+  "license_note": "All rights reserved. See LICENSE-NOTICE.md. Do not replace this with an open-source license unless reuse rights are intentionally granted.",
+  "keywords": [
+    "roofing",
+    "homeowner AI",
+    "AI tools",
+    "roofing technology",
+    "schema.org",
+    "knowledge graph",
+    "answer engine optimization",
+    "roof scope review",
+    "roofing documentation",
+    "Inspector Roofing"
+  ]
+}
