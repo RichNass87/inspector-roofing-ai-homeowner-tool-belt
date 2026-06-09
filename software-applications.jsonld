@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebApplication",
+      "@id": "https://inspector-roofing.com/scopereader/#software",
+      "name": "ScopeReader\u2122",
+      "url": "https://inspector-roofing.com/scopereader/",
+      "applicationCategory": "BusinessApplication",
+      "applicationSubCategory": "Roofing estimate explanation tool",
+      "operatingSystem": "Web browser",
+      "isAccessibleForFree": true,
+      "provider": {
+        "@id": "https://inspector-roofing.com/#organization"
+      },
+      "description": "A homeowner-facing tool that explains complex roofing estimates and scopes in plain English."
+    },
+    {
+      "@type": "WebApplication",
+      "@id": "https://inspector-roofing.com/roofmatch/#software",
+      "name": "Roofmatch\u2122",
+      "url": "https://inspector-roofing.com/roofmatch/",
+      "applicationCategory": "BusinessApplication",
+      "applicationSubCategory": "Roof color discovery tool",
+      "operatingSystem": "Web browser",
+      "isAccessibleForFree": true,
+      "provider": {
+        "@id": "https://inspector-roofing.com/#organization"
+      },
+      "description": "A swipe-style roof color discovery tool for comparing certified roof color and manufacturer options."
+    },
+    {
+      "@type": "WebApplication",
+      "@id": "https://inspector-roofing.com/inspector-ai-roof-plan-assistant/#software",
+      "name": "Inspector AI Roof Plan Assistant\u2122",
+      "url": "https://inspector-roofing.com/inspector-ai-roof-plan-assistant/",
+      "applicationCategory": "BusinessApplication",
+      "applicationSubCategory": "Roof planning assistant",
+      "operatingSystem": "Web browser",
+      "isAccessibleForFree": true,
+      "provider": {
+        "@id": "https://inspector-roofing.com/#organization"
+      },
+      "description": "An AI-assisted pre-inspection planning tool that helps homeowners organize roof concerns, documents, and next steps before a real inspection."
+    },
+    {
+      "@type": "WebApplication",
+      "@id": "https://inspector-roofing.com/instant-roof-quote-generator/#software",
+      "name": "InstantRoofView\u2122",
+      "alternateName": "Instant Roof Quote Generator",
+      "url": "https://inspector-roofing.com/instant-roof-quote-generator/",
+      "applicationCategory": "BusinessApplication",
+      "applicationSubCategory": "Roofing estimate calculator",
+      "operatingSystem": "Web browser",
+      "isAccessibleForFree": true,
+      "provider": {
+        "@id": "https://inspector-roofing.com/#organization"
+      },
+      "description": "A homeowner-facing preliminary roof budget preview tool using roof measurement, pitch, waste, obstruction, and retail pricing logic."
+    },
+    {
+      "@type": "WebApplication",
+      "@id": "https://inspector-roofing.com/inspector-agreementflow/#software",
+      "name": "Inspector AgreementFlow\u2122",
+      "url": "https://inspector-roofing.com/inspector-agreementflow/",
+      "applicationCategory": "BusinessApplication",
+      "applicationSubCategory": "Roofing agreement workflow",
+      "operatingSystem": "Web browser",
+      "provider": {
+        "@id": "https://inspector-roofing.com/#organization"
+      },
+      "description": "A browser-based roofing agreement workflow for required confirmations, e-signatures, signed PDF preview, download, submit-back, and audit trail."
+    }
+  ]
+}

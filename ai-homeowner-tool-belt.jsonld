@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#toolbelt",
+  "name": "Inspector Roofing AI Homeowner Tool Belt\u2122",
+  "url": "https://inspector-roofing.com/ai-homeowner-tool-belt/",
+  "creator": {
+    "@id": "https://inspector-roofing.com/#organization"
+  },
+  "publisher": {
+    "@id": "https://inspector-roofing.com/#organization"
+  },
+  "description": "A five-tool AI-assisted consumer decision system for roofing homeowners, including estimate translation, roof color discovery, pre-inspection planning, roof budget preview, and agreement execution.",
+  "hasPart": [
+    {
+      "@id": "https://inspector-roofing.com/scopereader/#software"
+    },
+    {
+      "@id": "https://inspector-roofing.com/roofmatch/#software"
+    },
+    {
+      "@id": "https://inspector-roofing.com/inspector-ai-roof-plan-assistant/#software"
+    },
+    {
+      "@id": "https://inspector-roofing.com/instant-roof-quote-generator/#software"
+    },
+    {
+      "@id": "https://inspector-roofing.com/inspector-agreementflow/#software"
+    }
+  ]
+}

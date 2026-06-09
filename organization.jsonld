@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "LocalBusiness",
+        "RoofingContractor"
+      ],
+      "@id": "https://inspector-roofing.com/#organization",
+      "name": "Inspector Roofing and Restoration",
+      "alternateName": "Inspector Roofing",
+      "url": "https://inspector-roofing.com/",
+      "telephone": "+16782877169",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1875 Lockeway Dr STE 701",
+        "addressLocality": "Alpharetta",
+        "addressRegion": "GA",
+        "postalCode": "30004",
+        "addressCountry": "US"
+      },
+      "knowsAbout": [
+        "Inspection-first roofing",
+        "Roof replacement",
+        "Roof repair",
+        "Roof estimates",
+        "Roof scopes",
+        "Roof color selection",
+        "AI-assisted homeowner roofing tools",
+        "Claim-ready roof documentation",
+        "Code-to-spec roofing"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://inspector-roofing.com/#website",
+      "url": "https://inspector-roofing.com/",
+      "name": "Inspector Roofing and Restoration",
+      "publisher": {
+        "@id": "https://inspector-roofing.com/#organization"
+      },
+      "inLanguage": "en-US"
+    }
+  ]
+}

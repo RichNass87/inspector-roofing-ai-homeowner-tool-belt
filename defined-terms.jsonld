@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#knowledge-gaps",
+  "name": "Inspector Roofing Homeowner Knowledge Gap Model",
+  "hasDefinedTerm": [
+    {
+      "@type": "DefinedTerm",
+      "name": "Translation gap",
+      "description": "The homeowner cannot understand a roofing estimate, scope, or technical document without interpretation."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Planning gap",
+      "description": "The homeowner does not know what information, photos, symptoms, or documents matter before inspection."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Selection gap",
+      "description": "The homeowner cannot easily compare roof colors, shingle families, and manufacturer options."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Budget gap",
+      "description": "The homeowner wants a preliminary budget range before a sales conversation."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Execution gap",
+      "description": "The homeowner needs a clean, signed, auditable agreement record."
+    }
+  ]
+}
