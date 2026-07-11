@@ -9,6 +9,10 @@
       "url": "https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt"
     },
     {
+      "type": "huggingface_dataset",
+      "url": "https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map"
+    },
+    {
       "type": "doi",
       "identifier": "10.5281/zenodo.20585267",
       "url": "https://doi.org/10.5281/zenodo.20585267"
