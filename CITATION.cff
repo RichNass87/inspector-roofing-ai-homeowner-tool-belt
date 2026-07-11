@@ -17,6 +17,8 @@ identifiers:
     value: "10.5281/zenodo.20585267"
   - type: url
     value: "https://www.wikidata.org/wiki/Q140513557"
+  - type: url
+    value: "https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map"
 abstract: "Public research, documentation, schema, and white paper materials for AI Homeowner's Tool Belt, a five-tool consumer knowledge system for roofing decision support."
 keywords:
   - "AI-assisted roofing"
