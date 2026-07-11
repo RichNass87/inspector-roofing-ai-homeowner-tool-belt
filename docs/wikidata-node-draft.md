@@ -26,6 +26,7 @@ roofing homeowner decision-support software and public research documentation pa
 ## Public Support Spine
 
 - GitHub repository: https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt
+- Hugging Face source-map dataset: https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map
 - Zenodo DOI: https://doi.org/10.5281/zenodo.20585267
 - Microsoft Store public URL: https://apps.microsoft.com/detail/9NR96HSSZ8DF
 - Platform proof map: https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt/blob/main/docs/platform-distribution-proof.md
@@ -55,5 +56,5 @@ LAST|P973|"https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-bel
 - Do not claim app-store approval until public approval is complete.
 - Do not add private dashboard URLs.
 - Do not create separate Wikidata nodes for each sub-tool until they have independent public proof.
-- Do not imply endorsement by Microsoft, Google, Chrome Web Store, GitHub, Zenodo, ORCID, or Wikidata.
+- Do not imply endorsement by Microsoft, Google, Chrome Web Store, GitHub, Hugging Face, Zenodo, ORCID, or Wikidata.
 - Let the item rest before adding optional platform URLs beyond the DOI/repository backbone.
