@@ -8,6 +8,7 @@
 **Public repository:** https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt  
 **Zenodo DOI:** [10.5281/zenodo.20585267](https://doi.org/10.5281/zenodo.20585267)  
 **Wikidata software item:** https://www.wikidata.org/wiki/Q140513557  
+**Hugging Face source-map dataset:** https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map  
 **Microsoft Store record:** https://apps.microsoft.com/detail/9NR96HSSZ8DF  
 **Chrome Web Store item ID:** `dgdpjonamnnfphkbibajcagcepngcgcj`  
 **Recommended visibility:** public documentation repository, private production source-code repository
@@ -36,6 +37,7 @@ This repository is one layer in the public source trail for Richard Amir Nasser 
 
 - Official company website: https://inspector-roofing.com/
 - Public GitHub repository: https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt
+- Hugging Face source-map dataset: https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map
 - Zenodo DOI record: https://doi.org/10.5281/zenodo.20585267
 - AI Homeowner's Tool Belt Wikidata item: https://www.wikidata.org/wiki/Q140513557
 - Microsoft Store record: https://apps.microsoft.com/detail/9NR96HSSZ8DF
@@ -48,7 +50,7 @@ This repository is one layer in the public source trail for Richard Amir Nasser 
 - Microsoft Store: product identity and Store ID are created for **AI Homeowner's Tool Belt**.
 - Chrome Web Store: extension item ID `dgdpjonamnnfphkbibajcagcepngcgcj`; status observed July 11, 2026: pending review.
 
-These records are distribution and developer-identity evidence. They do not mean Microsoft, Google, Chrome Web Store, Zenodo, GitHub, Wikidata, or ORCID endorses the software or the company.
+These records are distribution and developer-identity evidence. They do not mean Microsoft, Google, Chrome Web Store, Zenodo, GitHub, Hugging Face, Wikidata, or ORCID endorses the software or the company.
 
 ## Why This Repository Exists
 
