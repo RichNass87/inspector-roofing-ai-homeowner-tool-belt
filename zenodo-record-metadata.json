@@ -1,10 +1,10 @@
 {
-  "title": "Inspector Roofing AI Homeowner Tool Belt™",
+  "title": "AI Homeowner's Tool Belt",
   "upload_type": "software",
-  "description": "Public research, documentation, schema, and white paper package for the Inspector Roofing AI Homeowner Tool Belt™, a five-tool AI-assisted roofing decision support framework for homeowners.",
+  "description": "Public research, documentation, schema, and white paper package for AI Homeowner's Tool Belt, a five-tool AI-assisted roofing decision-support framework for homeowners.",
   "creators": [
     {
-      "name": "Nasser, Richard",
+      "name": "Nasser, Richard Amir",
       "affiliation": "Inspector Roofing and Restoration",
       "orcid": "0009-0000-2980-7543"
     }
@@ -14,6 +14,9 @@
   "doi": "10.5281/zenodo.20585267",
   "doi_url": "https://doi.org/10.5281/zenodo.20585267",
   "repository": "https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt",
+  "microsoft_store_url": "https://apps.microsoft.com/detail/9NR96HSSZ8DF",
+  "chrome_extension_id": "dgdpjonamnnfphkbibajcagcepngcgcj",
+  "chrome_status_observed": "pending review on 2026-07-11",
   "license_note": "All rights reserved. See LICENSE-NOTICE.md. Do not replace this with an open-source license unless reuse rights are intentionally granted.",
   "keywords": [
     "roofing",
@@ -25,6 +28,8 @@
     "answer engine optimization",
     "roof scope review",
     "roofing documentation",
-    "Inspector Roofing"
-  ]
+    "Inspector Roofing",
+    "Richard Amir Nasser"
+  ],
+  "non_endorsement": "Platform records do not imply endorsement by Microsoft, Google, Chrome Web Store, GitHub, Zenodo, ORCID, Wikidata, or any other platform."
 }
