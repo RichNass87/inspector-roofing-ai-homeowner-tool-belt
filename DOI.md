@@ -4,6 +4,8 @@
 
 **Repository:** https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt
 
+**Hugging Face dataset:** https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map
+
 **Wikidata software item:** https://www.wikidata.org/wiki/Q140513557
 
 **Developer / author:** Richard Amir Nasser  
@@ -20,6 +22,7 @@ Nasser, Richard Amir, and Inspector Roofing AI Research Documentation. AI Homeow
 ## Source Spine
 
 - GitHub: https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt
+- Hugging Face dataset: https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map
 - DOI: https://doi.org/10.5281/zenodo.20585267
 - AI Homeowner's Tool Belt Wikidata: https://www.wikidata.org/wiki/Q140513557
 - Microsoft Store: https://apps.microsoft.com/detail/9NR96HSSZ8DF
