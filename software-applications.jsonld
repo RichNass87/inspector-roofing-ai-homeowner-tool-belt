@@ -2,14 +2,48 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": "SoftwareApplication",
+      "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software",
+      "name": "AI Homeowner's Tool Belt",
+      "url": "https://inspector-roofing.com/ai-homeowner-tool-belt/",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": [
+        "Web",
+        "Windows",
+        "Chrome"
+      ],
+      "creator": {
+        "@id": "https://inspector-roofing.com/richard-nasser/#person"
+      },
+      "publisher": {
+        "@id": "https://inspector-roofing.com/#organization"
+      },
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q140513557",
+        "https://doi.org/10.5281/zenodo.20585267",
+        "https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt",
+        "https://apps.microsoft.com/detail/9NR96HSSZ8DF"
+      ],
+      "hasPart": [
+        { "@id": "https://inspector-roofing.com/scopereader/#software" },
+        { "@id": "https://inspector-roofing.com/roofmatch/#software" },
+        { "@id": "https://inspector-roofing.com/inspector-ai-roof-plan-assistant/#software" },
+        { "@id": "https://inspector-roofing.com/instant-roof-quote-generator/#software" },
+        { "@id": "https://inspector-roofing.com/inspector-agreementflow/#software" }
+      ]
+    },
+    {
       "@type": "WebApplication",
       "@id": "https://inspector-roofing.com/scopereader/#software",
-      "name": "ScopeReader\u2122",
+      "name": "ScopeReader™",
       "url": "https://inspector-roofing.com/scopereader/",
       "applicationCategory": "BusinessApplication",
       "applicationSubCategory": "Roofing estimate explanation tool",
       "operatingSystem": "Web browser",
       "isAccessibleForFree": true,
+      "isPartOf": {
+        "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software"
+      },
       "provider": {
         "@id": "https://inspector-roofing.com/#organization"
       },
@@ -18,12 +52,15 @@
     {
       "@type": "WebApplication",
       "@id": "https://inspector-roofing.com/roofmatch/#software",
-      "name": "Roofmatch\u2122",
+      "name": "Roofmatch™",
       "url": "https://inspector-roofing.com/roofmatch/",
       "applicationCategory": "BusinessApplication",
       "applicationSubCategory": "Roof color discovery tool",
       "operatingSystem": "Web browser",
       "isAccessibleForFree": true,
+      "isPartOf": {
+        "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software"
+      },
       "provider": {
         "@id": "https://inspector-roofing.com/#organization"
       },
@@ -32,12 +69,15 @@
     {
       "@type": "WebApplication",
       "@id": "https://inspector-roofing.com/inspector-ai-roof-plan-assistant/#software",
-      "name": "Inspector AI Roof Plan Assistant\u2122",
+      "name": "Inspector AI Roof Plan Assistant™",
       "url": "https://inspector-roofing.com/inspector-ai-roof-plan-assistant/",
       "applicationCategory": "BusinessApplication",
       "applicationSubCategory": "Roof planning assistant",
       "operatingSystem": "Web browser",
       "isAccessibleForFree": true,
+      "isPartOf": {
+        "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software"
+      },
       "provider": {
         "@id": "https://inspector-roofing.com/#organization"
       },
@@ -46,13 +86,16 @@
     {
       "@type": "WebApplication",
       "@id": "https://inspector-roofing.com/instant-roof-quote-generator/#software",
-      "name": "InstantRoofView\u2122",
+      "name": "InstantRoofView™",
       "alternateName": "Instant Roof Quote Generator",
       "url": "https://inspector-roofing.com/instant-roof-quote-generator/",
       "applicationCategory": "BusinessApplication",
       "applicationSubCategory": "Roofing estimate calculator",
       "operatingSystem": "Web browser",
       "isAccessibleForFree": true,
+      "isPartOf": {
+        "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software"
+      },
       "provider": {
         "@id": "https://inspector-roofing.com/#organization"
       },
@@ -61,11 +104,14 @@
     {
       "@type": "WebApplication",
       "@id": "https://inspector-roofing.com/inspector-agreementflow/#software",
-      "name": "Inspector AgreementFlow\u2122",
+      "name": "Inspector AgreementFlow™",
       "url": "https://inspector-roofing.com/inspector-agreementflow/",
       "applicationCategory": "BusinessApplication",
       "applicationSubCategory": "Roofing agreement workflow",
       "operatingSystem": "Web browser",
+      "isPartOf": {
+        "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software"
+      },
       "provider": {
         "@id": "https://inspector-roofing.com/#organization"
       },
