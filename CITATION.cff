@@ -1,18 +1,18 @@
 cff-version: 1.2.0
 message: "If you cite or reference this public documentation repository, please cite it as below."
-title: "Inspector Roofing AI Homeowner Tool Belt: AI-Assisted Roofing Decision Support for Homeowners"
-type: report
+title: "AI Homeowner's Tool Belt: AI-Assisted Roofing Decision Support for Homeowners"
+type: software
 authors:
   - family-names: "Nasser"
-    given-names: "Richard"
+    given-names: "Richard Amir"
     affiliation: "Inspector Roofing and Restoration"
     orcid: "https://orcid.org/0009-0000-2980-7543"
 version: "0.1.0"
 date-released: "2026-06-09"
 repository-code: "https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt"
-url: "https://inspector-roofing.com/"
+url: "https://inspector-roofing.com/ai-homeowner-tool-belt/"
 doi: "10.5281/zenodo.20585267"
-abstract: "Public research, documentation, schema, and white paper materials for the Inspector Roofing AI Homeowner Tool Belt, a five-tool consumer knowledge system for roofing decision support."
+abstract: "Public research, documentation, schema, and white paper materials for AI Homeowner's Tool Belt, a five-tool consumer knowledge system for roofing decision support."
 keywords:
   - "AI-assisted roofing"
   - "answer engine optimization"
