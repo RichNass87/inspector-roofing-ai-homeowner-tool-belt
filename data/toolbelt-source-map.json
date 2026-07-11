@@ -25,6 +25,11 @@
       "observed_date": "2026-07-11"
     },
     {
+      "type": "wikidata_software",
+      "identifier": "Q140513557",
+      "url": "https://www.wikidata.org/wiki/Q140513557"
+    },
+    {
       "type": "orcid",
       "url": "https://orcid.org/0009-0000-2980-7543"
     },
