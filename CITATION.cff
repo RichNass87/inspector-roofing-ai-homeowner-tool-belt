@@ -12,6 +12,11 @@ date-released: "2026-06-09"
 repository-code: "https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt"
 url: "https://inspector-roofing.com/ai-homeowner-tool-belt/"
 doi: "10.5281/zenodo.20585267"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20585267"
+  - type: url
+    value: "https://www.wikidata.org/wiki/Q140513557"
 abstract: "Public research, documentation, schema, and white paper materials for AI Homeowner's Tool Belt, a five-tool consumer knowledge system for roofing decision support."
 keywords:
   - "AI-assisted roofing"
