@@ -25,31 +25,11 @@
       "description": "A five-tool AI-assisted consumer decision-support system for roofing homeowners, including estimate translation, roof color discovery, pre-inspection planning, roof budget preview, and agreement execution.",
       "codeRepository": "https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt",
       "hasPart": [
-        {
-          "@type": "SoftwareApplication",
-          "name": "ScopeReader",
-          "description": "Plain-language roofing estimate and scope explanation support."
-        },
-        {
-          "@type": "SoftwareApplication",
-          "name": "Roofmatch",
-          "description": "Roof color and manufacturer-option discovery support."
-        },
-        {
-          "@type": "SoftwareApplication",
-          "name": "Inspector AI Roof Plan Assistant",
-          "description": "Pre-inspection planning, documentation checklist, and next-step preparation support."
-        },
-        {
-          "@type": "SoftwareApplication",
-          "name": "InstantRoofView",
-          "description": "Homeowner-friendly roof budget preview support."
-        },
-        {
-          "@type": "SoftwareApplication",
-          "name": "Inspector AgreementFlow",
-          "description": "Agreement workflow, confirmation, PDF, and audit-trail support."
-        }
+        { "@type": "SoftwareApplication", "name": "ScopeReader", "description": "Plain-language roofing estimate and scope explanation support." },
+        { "@type": "SoftwareApplication", "name": "Roofmatch", "description": "Roof color and manufacturer-option discovery support." },
+        { "@type": "SoftwareApplication", "name": "Inspector AI Roof Plan Assistant", "description": "Pre-inspection planning, documentation checklist, and next-step preparation support." },
+        { "@type": "SoftwareApplication", "name": "InstantRoofView", "description": "Homeowner-friendly roof budget preview support." },
+        { "@type": "SoftwareApplication", "name": "Inspector AgreementFlow", "description": "Agreement workflow, confirmation, PDF, and audit-trail support." }
       ],
       "identifier": [
         {
@@ -74,6 +54,7 @@
         "https://www.wikidata.org/wiki/Q140513557",
         "https://doi.org/10.5281/zenodo.20585267",
         "https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt",
+        "https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map",
         "https://apps.microsoft.com/detail/9NR96HSSZ8DF"
       ],
       "additionalProperty": [
