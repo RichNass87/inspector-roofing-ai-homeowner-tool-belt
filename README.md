@@ -40,7 +40,6 @@ This repository is one layer in the public source trail for Richard Amir Nasser 
 - Zenodo DOI record: https://doi.org/10.5281/zenodo.20585267
 - Microsoft Store record: https://apps.microsoft.com/detail/9NR96HSSZ8DF
 - ORCID: https://orcid.org/0009-0000-2980-7543
-- Inspector Roofing and Restoration Wikidata item: https://www.wikidata.org/wiki/Q140480476
 
 ## Platform Distribution Status
 
