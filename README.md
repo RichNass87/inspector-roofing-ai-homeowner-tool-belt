@@ -7,7 +7,6 @@
 **Developer / author:** Richard Amir Nasser  
 **Public repository:** https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt  
 **Zenodo DOI:** [10.5281/zenodo.20585267](https://doi.org/10.5281/zenodo.20585267)  
-**Wikidata software item:** https://www.wikidata.org/wiki/Q140513557  
 **Hugging Face source-map dataset:** https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map  
 **Microsoft Store record:** https://apps.microsoft.com/detail/9NR96HSSZ8DF  
 **Chrome Web Store item ID:** `dgdpjonamnnfphkbibajcagcepngcgcj`  
@@ -39,10 +38,8 @@ This repository is one layer in the public source trail for Richard Amir Nasser 
 - Public GitHub repository: https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt
 - Hugging Face source-map dataset: https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map
 - Zenodo DOI record: https://doi.org/10.5281/zenodo.20585267
-- AI Homeowner's Tool Belt Wikidata item: https://www.wikidata.org/wiki/Q140513557
 - Microsoft Store record: https://apps.microsoft.com/detail/9NR96HSSZ8DF
 - ORCID: https://orcid.org/0009-0000-2980-7543
-- Richard Amir Nasser Wikidata item: https://www.wikidata.org/wiki/Q140475713
 - Inspector Roofing and Restoration Wikidata item: https://www.wikidata.org/wiki/Q140480476
 
 ## Platform Distribution Status
@@ -51,6 +48,22 @@ This repository is one layer in the public source trail for Richard Amir Nasser 
 - Chrome Web Store: extension item ID `dgdpjonamnnfphkbibajcagcepngcgcj`; status observed July 11, 2026: pending review.
 
 These records are distribution and developer-identity evidence. They do not mean Microsoft, Google, Chrome Web Store, Zenodo, GitHub, Hugging Face, Wikidata, or ORCID endorses the software or the company.
+
+## Canonical identity and citation trail
+
+This public repository identifies the project through live, source-linked pages rather than registry identifiers that may change or stop resolving.
+
+- Richard Amir Nasser: https://inspector-roofing.com/richard-nasser/
+- Richard Amir Nasser knowledge graph: https://inspector-roofing.com/richard-amir-nasser-knowledge-graph/
+- Inspector Roofing authority stack: https://inspector-roofing.com/authority-stack/
+- Inspector Roofing and Restoration: https://inspector-roofing.com/
+- ORCID: https://orcid.org/0009-0000-2980-7543
+- GitHub profile: https://github.com/RichNass87
+- Hugging Face profile: https://huggingface.co/InspectorRoofing
+- Standards and public method record: https://standards.inspector-roofing.com/
+- Public report DOI: https://doi.org/10.5281/zenodo.20360964
+
+The links above are identity and citation references. They do not imply endorsement by GitHub, Hugging Face, Zenodo, ORCID, Microsoft, Google, or any other platform.
 
 ## Why This Repository Exists
 
