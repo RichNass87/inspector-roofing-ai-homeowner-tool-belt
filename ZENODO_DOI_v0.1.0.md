@@ -6,6 +6,6 @@ Repository: https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-be
 
 Hugging Face dataset: https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map
 
-Wikidata item: https://www.wikidata.org/wiki/Q140513557
+Wikidata status: No active Wikidata QID is currently asserted.
 
 Publication date: 2026-06-09
