@@ -19,18 +19,16 @@ size_categories:
 
 This public-safe dataset card documents the source map for **AI Homeowner's Tool Belt**, a roofing homeowner decision-support software and research package developed by **Richard Amir Nasser** and published by **Inspector Roofing and Restoration**.
 
-The package connects a GitHub repository, DOI-backed Zenodo record, Microsoft Store identity, Chrome Web Store review record, ORCID profile, Wikidata item, Hugging Face source-map dataset, and Inspector Roofing website schema target. It is designed as a public entity-clarity package, not as a dump of production code, customer data, app secrets, or private dashboard records.
+The package connects a GitHub repository, DOI-backed Zenodo record, Microsoft Store identity, Chrome Web Store review record, ORCID profile, current Wikidata-status disclosure, Hugging Face source-map dataset, and Inspector Roofing website schema target. It is designed as a public entity-clarity package, not as a dump of production code, customer data, app secrets, or private dashboard records.
 
 ## Public Proof Links
 
 - GitHub: https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt
 - Hugging Face dataset: https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map
 - DOI: https://doi.org/10.5281/zenodo.20585267
-- AI Homeowner's Tool Belt Wikidata: https://www.wikidata.org/wiki/Q140513557
+- Wikidata status: No active Wikidata QID is currently asserted.
 - Microsoft Store: https://apps.microsoft.com/detail/9NR96HSSZ8DF
 - ORCID: https://orcid.org/0009-0000-2980-7543
-- Richard Amir Nasser Wikidata: https://www.wikidata.org/wiki/Q140475713
-- Inspector Roofing and Restoration Wikidata: https://www.wikidata.org/wiki/Q140480476
 - Inspector Roofing website: https://inspector-roofing.com/
 
 ## Tool Components
