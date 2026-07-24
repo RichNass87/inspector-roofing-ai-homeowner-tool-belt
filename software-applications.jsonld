@@ -19,18 +19,34 @@
         "@id": "https://inspector-roofing.com/#organization"
       },
       "sameAs": [
-        "https://www.wikidata.org/wiki/Q140513557",
         "https://doi.org/10.5281/zenodo.20585267",
         "https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt",
         "https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map",
         "https://apps.microsoft.com/detail/9NR96HSSZ8DF"
       ],
       "hasPart": [
-        { "@id": "https://inspector-roofing.com/scopereader/#software" },
-        { "@id": "https://inspector-roofing.com/roofmatch/#software" },
-        { "@id": "https://inspector-roofing.com/inspector-ai-roof-plan-assistant/#software" },
-        { "@id": "https://inspector-roofing.com/instant-roof-quote-generator/#software" },
-        { "@id": "https://inspector-roofing.com/inspector-agreementflow/#software" }
+        {
+          "@id": "https://inspector-roofing.com/scopereader/#software"
+        },
+        {
+          "@id": "https://inspector-roofing.com/roofmatch/#software"
+        },
+        {
+          "@id": "https://inspector-roofing.com/inspector-ai-roof-plan-assistant/#software"
+        },
+        {
+          "@id": "https://inspector-roofing.com/instant-roof-quote-generator/#software"
+        },
+        {
+          "@id": "https://inspector-roofing.com/inspector-agreementflow/#software"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Wikidata status",
+          "value": "No active Wikidata QID is currently asserted."
+        }
       ]
     },
     {
@@ -42,8 +58,12 @@
       "applicationSubCategory": "Roofing estimate explanation tool",
       "operatingSystem": "Web browser",
       "isAccessibleForFree": true,
-      "isPartOf": { "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software" },
-      "provider": { "@id": "https://inspector-roofing.com/#organization" },
+      "isPartOf": {
+        "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software"
+      },
+      "provider": {
+        "@id": "https://inspector-roofing.com/#organization"
+      },
       "description": "A homeowner-facing tool that explains complex roofing estimates and scopes in plain English."
     },
     {
@@ -55,8 +75,12 @@
       "applicationSubCategory": "Roof color discovery tool",
       "operatingSystem": "Web browser",
       "isAccessibleForFree": true,
-      "isPartOf": { "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software" },
-      "provider": { "@id": "https://inspector-roofing.com/#organization" },
+      "isPartOf": {
+        "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software"
+      },
+      "provider": {
+        "@id": "https://inspector-roofing.com/#organization"
+      },
       "description": "A swipe-style roof color discovery tool for comparing certified roof color and manufacturer options."
     },
     {
@@ -68,8 +92,12 @@
       "applicationSubCategory": "Roof planning assistant",
       "operatingSystem": "Web browser",
       "isAccessibleForFree": true,
-      "isPartOf": { "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software" },
-      "provider": { "@id": "https://inspector-roofing.com/#organization" },
+      "isPartOf": {
+        "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software"
+      },
+      "provider": {
+        "@id": "https://inspector-roofing.com/#organization"
+      },
       "description": "An AI-assisted pre-inspection planning tool that helps homeowners organize roof concerns, documents, and next steps before a real inspection."
     },
     {
@@ -82,8 +110,12 @@
       "applicationSubCategory": "Roofing estimate calculator",
       "operatingSystem": "Web browser",
       "isAccessibleForFree": true,
-      "isPartOf": { "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software" },
-      "provider": { "@id": "https://inspector-roofing.com/#organization" },
+      "isPartOf": {
+        "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software"
+      },
+      "provider": {
+        "@id": "https://inspector-roofing.com/#organization"
+      },
       "description": "A homeowner-facing preliminary roof budget preview tool using roof measurement, pitch, waste, obstruction, and retail pricing logic."
     },
     {
@@ -94,8 +126,12 @@
       "applicationCategory": "BusinessApplication",
       "applicationSubCategory": "Roofing agreement workflow",
       "operatingSystem": "Web browser",
-      "isPartOf": { "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software" },
-      "provider": { "@id": "https://inspector-roofing.com/#organization" },
+      "isPartOf": {
+        "@id": "https://inspector-roofing.com/ai-homeowner-tool-belt/#software"
+      },
+      "provider": {
+        "@id": "https://inspector-roofing.com/#organization"
+      },
       "description": "A browser-based roofing agreement workflow for required confirmations, e-signatures, signed PDF preview, download, submit-back, and audit trail."
     }
   ]
