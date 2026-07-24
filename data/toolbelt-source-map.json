@@ -29,23 +29,12 @@
       "observed_date": "2026-07-11"
     },
     {
-      "type": "wikidata_software",
-      "identifier": "Q140513557",
-      "url": "https://www.wikidata.org/wiki/Q140513557"
-    },
-    {
       "type": "orcid",
       "url": "https://orcid.org/0009-0000-2980-7543"
     },
     {
-      "type": "wikidata_person",
-      "identifier": "Q140475713",
-      "url": "https://www.wikidata.org/wiki/Q140475713"
-    },
-    {
-      "type": "wikidata_organization",
-      "identifier": "Q140480476",
-      "url": "https://www.wikidata.org/wiki/Q140480476"
+      "type": "wikidata_status",
+      "status": "No active Wikidata QID is currently asserted."
     }
   ],
   "components": [
