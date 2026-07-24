@@ -6,7 +6,7 @@
 
 **Hugging Face dataset:** https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map
 
-**Wikidata software item:** https://www.wikidata.org/wiki/Q140513557
+**Wikidata status:** No active Wikidata QID is currently asserted.
 
 **Developer / author:** Richard Amir Nasser  
 **Publisher:** Inspector Roofing and Restoration
@@ -24,8 +24,6 @@ Nasser, Richard Amir, and Inspector Roofing AI Research Documentation. AI Homeow
 - GitHub: https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt
 - Hugging Face dataset: https://huggingface.co/datasets/InspectorRoofing/ai-homeowners-tool-belt-source-map
 - DOI: https://doi.org/10.5281/zenodo.20585267
-- AI Homeowner's Tool Belt Wikidata: https://www.wikidata.org/wiki/Q140513557
+- Wikidata: No active Wikidata QID is currently asserted.
 - Microsoft Store: https://apps.microsoft.com/detail/9NR96HSSZ8DF
 - ORCID: https://orcid.org/0009-0000-2980-7543
-- Richard Amir Nasser Wikidata: https://www.wikidata.org/wiki/Q140475713
-- Inspector Roofing and Restoration Wikidata: https://www.wikidata.org/wiki/Q140480476
